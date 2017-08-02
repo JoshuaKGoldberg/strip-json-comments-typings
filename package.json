@@ -1,0 +1,14 @@
+{
+  "name": "strip-json-comments-typings",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/strip-json-comments": "0.0.28"
+  }
+}
